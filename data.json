@@ -1,0 +1,294 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bookName": "asd Karenine",
+      "bookDesc": "first book",
+      "bookAuthor": "Leo Tolstoy",
+      "noOfPages": "120",
+      "bookCategory": "advanture",
+      "bookPrice": "350",
+      "releasedYear": "1389"
+    },
+    {
+      "id": "2",
+      "bookName": "asdsdsad Karenina",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "ert Tolstoy",
+      "noOfPages": "400",
+      "bookCategory": "Romance",
+      "bookPrice": "35",
+      "releasedYear": "1377"
+    },
+    {
+      "id": "3",
+      "bookName": "Anna Karenina",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Leo Tolstoy",
+      "noOfPages": "800",
+      "bookCategory": "Romance",
+      "bookPrice": "35",
+      "releasedYear": "1877"
+    },
+    {
+      "id": "4",
+      "bookName": "Jane Eyre",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Charlotte Brontë",
+      "noOfPages": "400",
+      "bookCategory": "Romance",
+      "bookPrice": "280",
+      "releasedYear": "1847"
+    },
+    {
+      "id": "5",
+      "bookName": "Crime and Punishment",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Fyodor Dostoevsky",
+      "noOfPages": "90",
+      "bookCategory": "Thriller",
+      "bookPrice": "320",
+      "releasedYear": "1866"
+    },
+    {
+      "id": "6",
+      "bookName": "The Catcher in the Rye",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "J.D. Salinger",
+      "noOfPages": "224",
+      "bookCategory": "Classic",
+      "bookPrice": "200",
+      "releasedYear": "1951"
+    },
+    {
+      "id": "7",
+      "bookName": "The Lord of the Rings",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "J.R.R. Tolkien",
+      "noOfPages": "1178",
+      "bookCategory": "Fantasy",
+      "bookPrice": "450",
+      "releasedYear": "1954"
+    },
+    {
+      "id": "8",
+      "bookName": "Wuthering Heights",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Emily Brontë",
+      "noOfPages": "342",
+      "bookCategory": "Romance",
+      "bookPrice": "270",
+      "releasedYear": "1847"
+    },
+    {
+      "id": "9",
+      "bookName": "The Picture of Dorian Gray",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Oscar Wilde",
+      "noOfPages": "25",
+      "bookCategory": "Classic",
+      "bookPrice": "225",
+      "releasedYear": "1890"
+    },
+    {
+      "id": "10",
+      "bookName": "Brave New World",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Aldous Huxley",
+      "noOfPages": "80",
+      "bookCategory": "Dystopian",
+      "bookPrice": "290",
+      "releasedYear": "1932"
+    },
+    {
+      "id": "11",
+      "bookName": "The Odyssey",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Homer",
+      "noOfPages": "374",
+      "bookCategory": "Adventure",
+      "bookPrice": "280",
+      "releasedYear": "800 BCE"
+    },
+    {
+      "id": "12",
+      "bookName": "A Tale of Two Cities",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Charles Dickens",
+      "noOfPages": "331",
+      "bookCategory": "Classic",
+      "bookPrice": "270",
+      "releasedYear": "1859"
+    },
+    {
+      "id": "13",
+      "bookName": "The Brothers Karamazov",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Fyodor Dostoevsky",
+      "noOfPages": "796",
+      "bookCategory": "Philosophy",
+      "bookPrice": "380",
+      "releasedYear": "1880"
+    },
+    {
+      "id": "14",
+      "bookName": "The Road",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Cormac McCarthy",
+      "noOfPages": "241",
+      "bookCategory": "Adventure",
+      "bookPrice": "260",
+      "releasedYear": "2006"
+    },
+    {
+      "id": "15",
+      "bookName": "Les Misérables",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Victor Hugo",
+      "noOfPages": "1232",
+      "bookCategory": "Classic",
+      "bookPrice": "450",
+      "releasedYear": "1862"
+    },
+    {
+      "id": "16",
+      "bookName": "One Hundred Years of Solitude",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Gabriel García Márquez",
+      "noOfPages": "417",
+      "bookCategory": "Magic Realism",
+      "bookPrice": "290",
+      "releasedYear": "1967"
+    },
+    {
+      "id": "17",
+      "bookName": "The Count of Monte Cristo",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Alexandre Dumas",
+      "noOfPages": "928",
+      "bookCategory": "Adventure",
+      "bookPrice": "400",
+      "releasedYear": "1844"
+    },
+    {
+      "id": "18",
+      "bookName": "Frankenstein",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Mary Shelley",
+      "noOfPages": "280",
+      "bookCategory": "Science Fiction",
+      "bookPrice": "250",
+      "releasedYear": "1818"
+    },
+    {
+      "id": "19",
+      "bookName": "Gone with the Wind",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Margaret Mitchell",
+      "noOfPages": "1037",
+      "bookCategory": "Romance",
+      "bookPrice": "380",
+      "releasedYear": "1936"
+    },
+    {
+      "id": "20",
+      "bookName": "War and Peace",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Leo Tolstoy",
+      "noOfPages": "1392",
+      "bookCategory": "Historical Fiction",
+      "bookPrice": "480",
+      "releasedYear": "1869"
+    },
+    {
+      "id": "21",
+      "bookName": "The Shining",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Stephen King",
+      "noOfPages": "447",
+      "bookCategory": "Horror",
+      "bookPrice": "270",
+      "releasedYear": "1977"
+    },
+    {
+      "id": "22",
+      "bookName": "The Kite Runner",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Khaled Hosseini",
+      "noOfPages": "0",
+      "bookCategory": "Drama",
+      "bookPrice": "290",
+      "releasedYear": "2003"
+    },
+    {
+      "id": "23",
+      "bookName": "The Hobbit",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "J.R.R. Tolkien",
+      "noOfPages": "310",
+      "bookCategory": "Fantasy",
+      "bookPrice": "320",
+      "releasedYear": "1937"
+    },
+    {
+      "id": "24",
+      "bookName": "The Handmaid's Tale",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Margaret Atwood",
+      "noOfPages": "311",
+      "bookCategory": "Dystopian",
+      "bookPrice": "290",
+      "releasedYear": "1985"
+    },
+    {
+      "id": "25",
+      "bookName": "The Girl with the Dragon Tattoo",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Stieg Larsson",
+      "noOfPages": "672",
+      "bookCategory": "Thriller",
+      "bookPrice": "380",
+      "releasedYear": "2005"
+    },
+    {
+      "id": "26",
+      "bookName": "The Secret Garden",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Frances Hodgson Burnett",
+      "noOfPages": "331",
+      "bookCategory": "Children's",
+      "bookPrice": "250",
+      "releasedYear": "1911"
+    },
+    {
+      "id": "27",
+      "bookName": "The Road Less Traveled",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "M. Scott Peck",
+      "noOfPages": "316",
+      "bookCategory": "Self Help",
+      "bookPrice": "300",
+      "releasedYear": "1978"
+    },
+    {
+      "id": "28",
+      "bookName": "The Bell Jar",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Sylvia Plath",
+      "noOfPages": "200",
+      "bookCategory": "Autobiography",
+      "bookPrice": "260",
+      "releasedYear": "1963"
+    },
+    {
+      "id": "30",
+      "bookName": "Fahrenheit 451",
+      "bookDesc": "Lorem Ipsum, Lorem Ipsum",
+      "bookAuthor": "Ray Bradbury",
+      "noOfPages": "227",
+      "bookCategory": "Science Fiction",
+      "bookPrice": "270",
+      "releasedYear": "1953"
+    }
+  ]
+}
